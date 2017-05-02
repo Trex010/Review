@@ -1,0 +1,11 @@
+F:\FinalProject_Group01\SieuThiPhuongNam\bin\Debug\SieuThiPhuongNam.exe.config
+F:\FinalProject_Group01\SieuThiPhuongNam\bin\Debug\SieuThiPhuongNam.exe
+F:\FinalProject_Group01\SieuThiPhuongNam\bin\Debug\SieuThiPhuongNam.pdb
+F:\FinalProject_Group01\SieuThiPhuongNam\obj\Debug\SieuThiPhuongNam.csprojResolveAssemblyReference.cache
+F:\FinalProject_Group01\SieuThiPhuongNam\obj\Debug\SieuThiPhuongNam.phoneItem.resources
+F:\FinalProject_Group01\SieuThiPhuongNam\obj\Debug\SieuThiPhuongNam.Properties.Resources.resources
+F:\FinalProject_Group01\SieuThiPhuongNam\obj\Debug\SieuThiPhuongNam.csproj.GenerateResource.Cache
+F:\FinalProject_Group01\SieuThiPhuongNam\obj\Debug\SieuThiPhuongNam.exe
+F:\FinalProject_Group01\SieuThiPhuongNam\obj\Debug\SieuThiPhuongNam.pdb
+F:\FinalProject_Group01\SieuThiPhuongNam\obj\Debug\SieuThiPhuongNam.Form1.resources
+F:\FinalProject_Group01\SieuThiPhuongNam\obj\Debug\SieuThiPhuongNam.UserControl1.resources
