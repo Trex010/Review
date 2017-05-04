@@ -1,0 +1,7 @@
+2 May 2017
+	Android has 4 main components : Activity , Content Provider, Services, Broadcast Receiver
+	Android Stack: 4 layers : from bottom to top : Linux Kernel, Llbraries Classes, Android Framework, Application
+	Android Gradle/ Build Tools Error
+	Android Resources: layout(XML files) , create android:id @+ ->
+	Inflated View findViewById(R....);
+	ContraitLayout uses complex contraits on child view to allow for dynamic layout for specific windows
